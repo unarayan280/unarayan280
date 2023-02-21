@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unarayan280&label=Profile%20views&color=0e75b6&style=flat" alt="unarayan280" /> </p>
 
-- 🌱 I’m currently learning **Jaa,Data Structures**
+- 🌱 I’m currently learning **Java,Data structure and algorithms**
 
 - 👨‍💻 Portfolio link [https://silly-gumption-d06f93.netlify.app/](https://silly-gumption-d06f93.netlify.app/)
 
