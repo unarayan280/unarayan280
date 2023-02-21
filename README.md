@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **2041015001.uditnarayanojha@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/1QGNFyo7J](https://resume.io/r/1QGNFyo7J)
+- 📄 Curriculum vitae link [https://resume.io/r/1QGNFyo7J](https://resume.io/r/1QGNFyo7J)
 
 - ⚡ Fun fact **I am funny**
 
