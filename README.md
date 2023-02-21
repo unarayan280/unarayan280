@@ -3,7 +3,7 @@
 <img align="right"alt="coding"width="400"src="https://www.lambdatest.com/resources/images/news24.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unarayan280&label=Profile%20views&color=0e75b6&style=flat" alt="unarayan280" /> </p>
 
-- 🌱 I’m currently learning **Jaa,Data Structures**
+- 🌱 I’m currently learning **Java and Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://silly-gumption-d06f93.netlify.app/](https://silly-gumption-d06f93.netlify.app/)
 
