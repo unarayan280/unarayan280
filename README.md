@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unarayan280&label=Profile%20views&color=0e75b6&style=flat" alt="unarayan280" /> </p>
 
 
-- 🌱 I’m currently learning **Java,Data Structures and algorithms**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unarayan280&label=Profile%20views&color=0e75b6&style=flat" alt="unarayan280" /> </p>
+
+- 🌱 I’m currently learning **Jaa,Data Structures**
 
 - 👨‍💻 Portfolio link [https://silly-gumption-d06f93.netlify.app/](https://silly-gumption-d06f93.netlify.app/)
 
@@ -17,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ojhaudit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ojhaudit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/udit-narayan-ojha-72300a254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/udit-narayan-ojha-72300a254" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/udit-narayan-ojha-72300a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udit-narayan-ojha-72300a254/" height="30" width="40" /></a>
 <a href="https://fb.com/udit narayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="udit narayan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/udit55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="udit55" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/uo56263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="uo56263" height="30" width="40" /></a>
@@ -32,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unarayan280&show_icons=true&locale=en" alt="unarayan280" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unarayan280&" alt="unarayan280" /></p>
+
